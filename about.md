@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+ Procedencia:  Madrid, España
+
+ Especialidad grado:  electricidad
+ Especialidad máster:  mecánica
+ 
+ Prácticas:  investigación (ICAI) y  consultoría (Accenture)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[miguelalzatee@gmail.com](mailto:miguelalzatee@gmail.com)
