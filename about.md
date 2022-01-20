@@ -10,14 +10,13 @@ Dejo aquí algunos datos de interés
 
  Procedencia:  Madrid, España
 
- Especialidad grado:  electricidad
+ Especialidad grado:  Electricidad
  
- Especialidad máster:  mecánica
+ Especialidad máster:  Mecánica
  
  Prácticas:  investigación (ICAI) y  consultoría (Accenture)
 
-### Contact me
+### Resume
 Dejo aqui mi CV:
 ![_config.yml]({{ site.baseurl }}/images/MiguelAlzateCV.pdf)
 
-[miguelalzatee@gmail.com](mailto:miguelalzatee@gmail.com)
