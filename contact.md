@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /acerca-de/
+permalink: /contact/
 ---
 
 Dejo aquí algunos datos de contacto
