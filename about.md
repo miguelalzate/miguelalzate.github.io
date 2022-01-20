@@ -18,5 +18,5 @@ Dejo aquí algunos datos de interés
 
 ### Resume
 Dejo aqui mi CV:
-![_config.yml]({{ site.baseurl }}/images/MiguelAlzateCV.pdf)
+![_config.yml]({{ site.baseurl }}/images/MiguelAlzateCV.png)
 
