@@ -4,13 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
+Dejo aquí algunos datos de interés
 
 ### More Information
 
  Procedencia:  Madrid, España
 
  Especialidad grado:  electricidad
+ 
  Especialidad máster:  mecánica
  
  Prácticas:  investigación (ICAI) y  consultoría (Accenture)
