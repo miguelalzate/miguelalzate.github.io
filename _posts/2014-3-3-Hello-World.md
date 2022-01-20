@@ -4,7 +4,7 @@ title: Este es el primer post de Miguel Alzate
 ---
 Son 9 las tendencias de información con mayor potencial:
 
-## 1. Artificial Intelligence and Machine Learning
+## 1. [Artificial Intelligence and Machine Learning](https://www.sas.com/en_th/insights/articles/big-data/artificial-intelligence-machine-learning-deep-learning-and-beyond.html)
 ![_config.yml]({{ site.baseurl }}/images/Artificial Intelligence and Machine Learning.jpg)
 
 ## 2. Robotic Process Automation (RPA)
