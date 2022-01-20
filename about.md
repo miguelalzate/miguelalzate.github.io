@@ -18,6 +18,6 @@ Dejo aquí algunos datos de interés
 
 ### Contact me
 Dejo aqui mi CV:
-
+![_config.yml]({{ site.baseurl }}/images/MiguelAlzateCV.pdf)
 
 [miguelalzatee@gmail.com](mailto:miguelalzatee@gmail.com)
