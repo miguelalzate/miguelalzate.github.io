@@ -7,16 +7,16 @@ Son 9 las tendencias de información con mayor potencial:
 ## 1. [Artificial Intelligence and Machine Learning](https://www.sas.com/en_th/insights/articles/big-data/artificial-intelligence-machine-learning-deep-learning-and-beyond.html)
 ![_config.yml]({{ site.baseurl }}/images/Artificial Intelligence and Machine Learning.jpg)
 
-## 2. Robotic Process Automation (RPA)
+## 2. [Robotic Process Automation (RPA)](https://capgemini-engineering.com/es/es/integrated_solution/rpa-robotic-process-automation/)
 ![_config.yml]({{ site.baseurl }}/images/Robotic Process Automation.png)
 
-## 3. Edge Computing
+## 3. [Edge Computing](https://www.ibm.com/es-es/cloud/what-is-edge-computing)
 ![_config.yml]({{ site.baseurl }}/images/Edge Computing.png)
 
-## 4. Quantum Computing
+## 4. [Quantum Computing](https://www.ibm.com/quantum-computing/what-is-quantum-computing/)
 ![_config.yml]({{ site.baseurl }}/images/Quantum Computing.png)
 
-## 5. Virtual Reality and Augmented Reality
+## 5. [Virtual Reality and Augmented Reality](https://www.onirix.com/learn-about-ar/differences-augmented-reality-virtual-reality/)
 ![_config.yml]({{ site.baseurl }}/images/Virtual Reality and Augmented Reality.jpg)
 
 ## 6. Blockchain
