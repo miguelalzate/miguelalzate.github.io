@@ -19,17 +19,17 @@ Son 9 las tendencias de información con mayor potencial:
 ## 5. [Virtual Reality and Augmented Reality](https://www.onirix.com/learn-about-ar/differences-augmented-reality-virtual-reality/)
 ![_config.yml]({{ site.baseurl }}/images/Virtual Reality and Augmented Reality.jpg)
 
-## 6. Blockchain
+## 6. [Blockchain](https://www.blockchain.com/es/)
 ![_config.yml]({{ site.baseurl }}/images/Blockchain.jpg)
 
-## 7. Internet of Things (IoT)
+## 7. [Internet of Things (IoT)](https://www.oracle.com/es/internet-of-things/what-is-iot/)
 ![_config.yml]({{ site.baseurl }}/images/Internet of Things (IoT).png)
 
-## 8. 5G
+## 8. [5G](https://www.telefonica.com/es/wp-content/uploads/sites/4/2021/11/como-funciona-el-5G.jpg.pdf)
 ![_config.yml]({{ site.baseurl }}/images/5G.png)
 
-## 9. Cyber Security
+## 9. [Cyber Security](https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security)
 ![_config.yml]({{ site.baseurl }}/images/Cyber Security.jpg)
 
 
-Para saber más sobre cada uno de ellos se puede visitar la siguiente [página:](https://www.simplilearn.com/top-technology-trends-and-jobs-article/amp)
+Para saber más sobre cada uno de ellos se puede visitar la siguiente página haga click [aquí:](https://www.simplilearn.com/top-technology-trends-and-jobs-article/amp)
