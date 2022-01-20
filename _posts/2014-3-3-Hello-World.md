@@ -32,4 +32,4 @@ Son 9 las tendencias de información con mayor potencial:
 ![_config.yml]({{ site.baseurl }}/images/Cyber Security.jpg)
 
 
-Para saber más sobre cada uno de ellos se puede visitar la siguiente página haga click [aquí:](https://www.simplilearn.com/top-technology-trends-and-jobs-article/amp)
+Para saber más sobre cada uno de ellos haga click [aquí:](https://www.simplilearn.com/top-technology-trends-and-jobs-article/amp)
