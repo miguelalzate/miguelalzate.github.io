@@ -17,5 +17,7 @@ Dejo aquí algunos datos de interés
  Prácticas:  investigación (ICAI) y  consultoría (Accenture)
 
 ### Contact me
+Dejo aqui mi CV:
+
 
 [miguelalzatee@gmail.com](mailto:miguelalzatee@gmail.com)
